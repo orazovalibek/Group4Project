@@ -1,2 +1,2 @@
-This is to show that collaboration even works group 4
+This is to show that collaboration even works for group 4
 After I was granted permission, i was able to commit and push
